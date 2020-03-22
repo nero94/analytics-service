@@ -1,0 +1,12 @@
+{
+  "authToken": "6i2nSgWu0DfYIE8I0ZBJOtxTmHJATRzu",
+  "firebase": {
+    "apiKey": "AIzaSyBA9WvE5n06IbZT2aor4W24czUrewU5BTs",
+    "authDomain": "analytics-service-83eb6.firebaseapp.com",
+    "databaseURL": "https://analytics-service-83eb6.firebaseio.com",
+    "projectId": "analytics-service-83eb6",
+    "storageBucket": "analytics-service-83eb6.appspot.com",
+    "messagingSenderId": "603594480956",
+    "appId": "1:603594480956:web:2e235a3fd331904e74d239"
+  }
+}
